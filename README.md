@@ -9,7 +9,7 @@ The application focuses on providing a simple yet effective interface for bank c
 ## Technologies Used
 
 Java: Core programming language for developing the application
-.
+
 Swing: Used for creating a responsive and intuitive graphical user interface (GUI).
 
 MySQL: Backend database for storing user details, account information, and transaction history.
